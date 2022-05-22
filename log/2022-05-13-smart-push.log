@@ -1,0 +1,108 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 01:55:25"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:03:20"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:12:35"}
+{"level":"error","message":"example DB Connection error\n: {\"errno\":-61,\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"127.0.0.1\",\"port\":3306,\"fatal\":true}","timestamp":"2022-05-13 02:12:38"}
+{"level":"error","message":"example DB Connection error\n: {\"errno\":-61,\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"127.0.0.1\",\"port\":3306,\"fatal\":true}","timestamp":"2022-05-13 02:12:54"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:13:47"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:13:48"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:13:50"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:18:09"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:18:13"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:22:11"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:24:53"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:25:15"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:25:23"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:27:50"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:27:54"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:27:57"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:28:01"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:28:01"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:28:02"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:28:03"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:29:31"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:30:18"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:30:21"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:30:32"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:36:25"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:36:27"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:38:23"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:38:23"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:38:24"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:38:28"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:38:33"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:43:02"}
+{"level":"error","message":"example DB Connection error\n: {\"errno\":-61,\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"127.0.0.1\",\"port\":3306,\"fatal\":true}","timestamp":"2022-05-13 02:43:03"}
+{"level":"error","message":"example DB Connection error\n: {\"errno\":-61,\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"127.0.0.1\",\"port\":3306,\"fatal\":true}","timestamp":"2022-05-13 02:43:05"}
+{"level":"error","message":"example DB Connection error\n: {\"errno\":-61,\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"127.0.0.1\",\"port\":3306,\"fatal\":true}","timestamp":"2022-05-13 02:43:08"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:43:21"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:43:22"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:43:23"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:44:31"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:50:18"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:50:23"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:51:18"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:51:20"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:51:28"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:51:32"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:51:46"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:51:47"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:51:48"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:51:49"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:53:57"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:53:58"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:54:02"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'kid-chang'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:54:03"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:54:51"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:55:35"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:55:41"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 02:58:20"}
+{"level":"error","message":"example DB Connection error\n: {\"code\":\"ER_ACCESS_DENIED_ERROR\",\"errno\":1045,\"sqlState\":\"28000\",\"sqlMessage\":\"Access denied for user 'root'@'118.218.39.69' (using password: NO)\"}","timestamp":"2022-05-13 02:58:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 03:01:32"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 03:02:04"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:22:24"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:22:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:26:30"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:27:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:28:05"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:49:19"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:49:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:49:32"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:51:45"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:53:41"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:53:50"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:54:13"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:54:33"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:57:20"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:57:44"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 14:59:35"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:00:02"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:01:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:01:22"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:04:06"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:04:50"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:05:30"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:05:32"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:05:35"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:05:52"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:06:15"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:06:59"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:07:19"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:07:27"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:13:49"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:14:15"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:16:27"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:18:02"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:18:16"}
+{"level":"error","message":"readStudents Query error\n: {}","timestamp":"2022-05-13 15:18:30"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:18:48"}
+{"level":"error","message":"readStudents Query error\n: {}","timestamp":"2022-05-13 15:18:50"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 15:19:47"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:02:59"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:03:17"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:03:18"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:08:13"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:10:40"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:12:29"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:13:19"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:24:45"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-05-13 16:25:51"}
